@@ -1,0 +1,13 @@
+.env
+data/
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.DS_Store
+*.log
+model/models/*.pth
+model/models/*.pt
